@@ -27,7 +27,7 @@
 }
 
 /* Select the image with the class "yellow_diamond" */
-#ruby
+#ruby 
 /*selector for yellow diamond goes here */ {
   position: absolute;
   z-index: 4;
@@ -36,6 +36,7 @@
 }
 
 /* Select the image that has ad id of diamond */
+#ruby
 /*selector for diamond goes here */ {
   position: absolute;
   z-index: 3;
