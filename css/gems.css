@@ -27,7 +27,7 @@
 }
 
 /* Select the image with the class "yellow_diamond" */
-
+#ruby
 /*selector for yellow diamond goes here */ {
   position: absolute;
   z-index: 4;
