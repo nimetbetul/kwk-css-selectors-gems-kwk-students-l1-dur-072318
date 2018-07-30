@@ -18,7 +18,7 @@
 }
 
 /* Select the image inside the element with an id of sand (using its descendant relationship) */
-#sand
+.sand
 /*selector for sapphire goes here */{
   position: absolute;
   z-index: 5;
@@ -27,7 +27,7 @@
 }
 
 /* Select the image with the class "yellow_diamond" */
-#yellow_diamond
+.yellow_diamond
 /*selector for yellow diamond goes here */ {
   position: absolute;
   z-index: 4;
